@@ -19,4 +19,5 @@ public class DistribucionT {
         return constante * Math.pow(1 + x * x / dof, -(dof + 1) / 2.0);
     }
 
+    
 }
